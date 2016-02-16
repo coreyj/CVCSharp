@@ -15,6 +15,8 @@ namespace CVCSharp
 
             Pointers.PointersAreNotSafe();
 
+            Pointers.DynamicMemory();
+
             Foreach.PrintArray();
 
             Foreach.PrintHalfPyramid(5);
